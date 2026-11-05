@@ -1,12 +1,44 @@
 {
-  "real_capital_inr": 10000.0,
-  "leverage_x": 5,
-  "budget_inr": 50000.0,
-  "cash_buffer_pct": 0.0,
-  "max_loss_per_trade_inr": 200.0,
-  "max_daily_loss_inr": 200.0,
-  "max_position_pct": 100.0,
-  "max_order_inr": 50000.0,
-  "max_open_positions": 3,
-  "max_trades_per_day": 3
+  "date": "2026-11-05",
+  "now_ist": "2026-11-05 10:01",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "WIPRO",
+      "side": "buy",
+      "kind": "entry",
+      "amount": "50 shares",
+      "value_inr": 9940.0,
+      "entry_ref": 198.8,
+      "entry_ref_from": "limit",
+      "stop": 195.8,
+      "target": 207.8,
+      "risk_per_share": 3.0,
+      "max_loss": 150.0,
+      "reward_risk": 3.0,
+      "fingerprint": "21ef67c2f6712ece",
+      "verdict": "BLOCK",
+      "reasons": [
+        "daily loss: \u20b9197.92 already at risk today plus \u20b9150 for this one = \u20b9347.92, over your \u20b9200 daily loss limit"
+      ],
+      "warnings": [],
+      "info": [
+        "entry 198.80 (the limit price), stop 195.80, target 207.80: risk 3.00 a share",
+        "max loss \u20b9150 (limit \u20b9200), reward:risk 3.00 (min 2)",
+        "today before this: 1 of 3 trades, \u20b9197.92 of \u20b9200 daily loss"
+      ]
+    }
+  ],
+  "pass": 0,
+  "block": 1,
+  "warnings": [],
+  "cash_after": 10000.0,
+  "today": {
+    "orders_placed": 1,
+    "entries_placed": 1,
+    "loss_at_risk": 197.92
+  },
+  "checked_at": "2026-11-05T04:31:53Z",
+  "orders_file": "trader/orders.json"
 }

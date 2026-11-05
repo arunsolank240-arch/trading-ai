@@ -1,0 +1,13 @@
+{
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-05",
+      "kind": "entry",
+      "symbol": "BAJFINANCE",
+      "side": "buy",
+      "qty": 9,
+      "max_loss": 197.92
+    }
+  ]
+}

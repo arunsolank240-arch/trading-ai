@@ -1,22 +1,22 @@
 {
   "created_by": "india-entry",
-  "symbol": "RELIANCE",
+  "symbol": "WIPRO",
   "setup": "orb",
   "side": "buy",
-  "date": "2026-10-19",
+  "date": "2026-11-05",
   "status": "triggered",
-  "time": "9:35 AM",
-  "bar_start": "09:30",
-  "bar_index": 3,
-  "price": 1401.4,
-  "level": 1400.8,
+  "time": "9:55 AM",
+  "bar_start": "09:50",
+  "bar_index": 7,
+  "price": 198.42,
+  "level": 197.65,
   "interval": "5m",
   "opening_range": {
-    "high": 1400.8,
-    "low": 1399.4,
+    "high": 197.65,
+    "low": 195.83,
     "minutes": 15
   },
   "source": "yahoo",
-  "checked_at": "2026-10-19T04:10:00Z",
-  "reason": "the 9:30 bar closed above the range high"
+  "checked_at": "2026-11-05T04:31:52Z",
+  "reason": "the 9:50 bar closed above the range high"
 }

@@ -1,6 +1,24 @@
 {
   "date": "2026-11-05",
-  "symbols": [],
-  "morning_ping": false,
+  "symbols": [
+    "AXISBANK",
+    "BAJFINANCE",
+    "HCLTECH",
+    "ICICIBANK",
+    "INDUSINDBK",
+    "INFY",
+    "IRFC",
+    "JIOFIN",
+    "JSWSTEEL",
+    "M&M",
+    "RECLTD",
+    "SUNPHARMA",
+    "TATACONSUM",
+    "TCS",
+    "TECHM",
+    "TITAN",
+    "WIPRO"
+  ],
+  "morning_ping": true,
   "premarket_done": true
 }

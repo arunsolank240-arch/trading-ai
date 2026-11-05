@@ -1,16 +1,7 @@
-**MORNING BRIEF (8:30 AM IST)**
+Sirf diye gaye JSON ke numbers aur data ke hisaab se Intraday Setup Brief yahan hai:
 
-**1. WATCHLIST**
-Aaj ki watchlist mein 1 stock hai: RELIANCE. Iska current price ₹1401.4 hai aur RSI14 0.0 hai. Isme 'orb' setup dikh raha hai. Aap isme maximum 7 shares le sakte hain.
+**Kaha:**
+BAJFINANCE
 
-**2. IMPORTANT ANNOUNCEMENTS**
-data nahi
-
-**3. AAJ KE EVENTS (Results, Board Meetings)**
-data nahi
-
-**4. TIME MACHINE ODDS**
-RELIANCE ke liye Time Machine odds: 10000 replays mein, target hit hone ki probability 44.0% hai aur stop hit hone ki 56.0%. 29 sessions test kiye gaye, jisme se 25 sessions trigger hue. Historical wins 10, historical losses 15. Historical average R 0.2 hai.
-
-**5. RISK BUDGET**
-Aapka total risk budget ₹10000.0 hai. Ek position par maximum ₹10000.0 laga sakte hain. Margin allowed nahi hai. Har trade par maximum loss ₹200.0 aur daily maximum loss ₹200.0 hai. Minimum reward-risk ratio 2.0 hona chahiye, aur charges ke baad 1.0. Cost trail trigger
+**Kitne Baje:**
+Entry time 09:35 AM
