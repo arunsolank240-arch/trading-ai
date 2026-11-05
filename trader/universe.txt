@@ -1,0 +1,45 @@
+SBIN|State Bank of India
+ITC|ITC Limited
+HDFCBANK|HDFC Bank Limited
+KOTAKBANK|Kotak Mahindra Bank Limited
+TATASTEEL|Tata Steel Limited
+TATAMOTORS|Tata Motors Limited
+ONGC|Oil & Natural Gas Corporation Limited
+NTPC|NTPC Limited
+POWERGRID|Power Grid Corporation of India Limited
+COALINDIA|Coal India Limited
+BEL|Bharat Electronics Limited
+WIPRO|Wipro Limited
+HINDALCO|Hindalco Industries Limited
+BPCL|Bharat Petroleum Corporation Limited
+IOC|Indian Oil Corporation Limited
+GAIL|GAIL (India) Limited
+BHEL|Bharat Heavy Electricals Limited
+PNB|Punjab National Bank
+BANKBARODA|Bank of Baroda
+CANBK|Canara Bank
+VEDL|Vedanta Limited
+TATAPOWER|Tata Power Company Limited
+RECLTD|REC Limited
+PFC|Power Finance Corporation Limited
+IRFC|Indian Railway Finance Corporation Limited
+JIOFIN|Jio Financial Services Limited
+AXISBANK|AXIS Bank Limited
+INDUSINDBK|IndusInd Bank Limited
+JSWSTEEL|JSW Steel Limited
+RELIANCE|Reliance Industries Limited
+ICICIBANK|ICICI Bank Limited
+INFY|Infosys Limited
+HCLTECH|HCL Technologies Limited
+SUNPHARMA|Sun Pharmaceutical Industries Limited
+CIPLA|Cipla Limited
+TATACONSUM|Tata Consumer Products Limited
+TECHM|Tech Mahindra Limited
+BHARTIARTL|Bharti Airtel Limited
+HINDUNILVR|Hindustan Unilever Limited
+TCS|Tata Consultancy Services Limited
+LT|Larsen & Toubro Limited
+M&M|Mahindra & Mahindra Limited
+TITAN|Titan Company Limited
+ASIANPAINT|Asian Paints Limited
+BAJFINANCE|Bajaj Finance Limited

@@ -1,0 +1,22 @@
+{
+  "created_by": "india-entry",
+  "symbol": "RELIANCE",
+  "setup": "orb",
+  "side": "buy",
+  "date": "2026-10-19",
+  "status": "triggered",
+  "time": "9:35 AM",
+  "bar_start": "09:30",
+  "bar_index": 3,
+  "price": 1401.4,
+  "level": 1400.8,
+  "interval": "5m",
+  "opening_range": {
+    "high": 1400.8,
+    "low": 1399.4,
+    "minutes": 15
+  },
+  "source": "yahoo",
+  "checked_at": "2026-10-19T04:10:00Z",
+  "reason": "the 9:30 bar closed above the range high"
+}

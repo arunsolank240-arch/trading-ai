@@ -1,0 +1,12 @@
+{
+  "real_capital_inr": 10000.0,
+  "leverage_x": 5,
+  "budget_inr": 50000.0,
+  "cash_buffer_pct": 0.0,
+  "max_loss_per_trade_inr": 200.0,
+  "max_daily_loss_inr": 200.0,
+  "max_position_pct": 100.0,
+  "max_order_inr": 50000.0,
+  "max_open_positions": 3,
+  "max_trades_per_day": 3
+}
