@@ -1,0 +1,57 @@
+{
+  "brief_type": "MORNING_830_IST_BRIEF",
+  "template_sections": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "schedule_ist": "8:30 AM",
+  "date": "data nahi",
+  "total_watchlist_matches": 1,
+  "1_watchlist": [
+    {
+      "rank": 1,
+      "symbol": "RELIANCE",
+      "price": 1401.4,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 7
+    }
+  ],
+  "2_important_announcements": "data nahi",
+  "3_events_results_board_meetings": "data nahi",
+  "4_time_machine_odds": {
+    "reference_symbol": "RELIANCE",
+    "replays": 10000,
+    "target_hit_pct": 44.0,
+    "stop_hit_pct": 56.0,
+    "sessions_tested": 29,
+    "triggered_sessions": 25,
+    "historical_wins": 10,
+    "historical_losses": 15,
+    "historical_avg_r": 0.2
+  },
+  "5_risk_budget": {
+    "budget_inr": 10000.0,
+    "position_cap_inr": 10000.0,
+    "allow_margin": false,
+    "max_loss_per_trade_inr": 200.0,
+    "max_daily_loss_inr": 200.0,
+    "min_reward_risk": 2.0,
+    "min_reward_risk_after_charges": 1.0,
+    "cost_trail_trigger_r": 1,
+    "max_trades_per_day": 3
+  },
+  "6_what_not_to_do": {
+    "no_trade_window_morning": "9:15–09:30 AM (first 15 minutes — all 3 bars required)",
+    "no_new_entry_after_ist": "14:45",
+    "auto_square_off_ist": "15:15",
+    "max_daily_loss_stop_inr": 200.0,
+    "max_trades_cap": 3
+  }
+}
