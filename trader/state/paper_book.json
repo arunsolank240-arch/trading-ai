@@ -13,26 +13,27 @@
       "fill_time": "10:00 AM",
       "cron_delay_min": 15,
       "entry_bar_start": "09:40",
-      "last_checked_hhmm": "09:40",
+      "last_checked_hhmm": "15:15",
       "qty": 9,
       "cost": 9377.1,
       "signal_price": 1043.75,
       "entry": 1041.9,
       "initial_stop": 1021.0,
-      "stop": 1021.0,
+      "stop": 1041.9,
       "one_r_price": 1062.8,
       "target": 1104.6,
       "risk_per_share": 20.9,
-      "charges": 9.82,
+      "charges": 10.11,
       "all_in_stop_loss": 197.92,
       "rr_after_charges": 2.8,
-      "status": "OPEN",
-      "exit_price": null,
-      "exit_time": null,
-      "exit_reason": null,
-      "trailed_to_cost": false,
-      "gross_pnl": null,
-      "net_pnl": null
+      "status": "TIME_EXIT_1515",
+      "exit_price": 1069.85,
+      "exit_time": "3:15 PM",
+      "exit_reason": "3:15 PM Intraday Square-Off",
+      "trailed_to_cost": true,
+      "gross_pnl": 251.55,
+      "net_pnl": 241.44,
+      "trailed_at_time": "12:40 PM"
     }
   ],
   "skipped": [
@@ -117,5 +118,5 @@
       "reason": "WIPRO: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹105 for this one = ₹302.92, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹105 for this one = ₹302.92, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹150 for this one = ₹347.92, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹150 for this one = ₹347.92, over your ₹200 daily loss limit)"
     }
   ],
-  "eod_sent": false
+  "eod_sent": true
 }

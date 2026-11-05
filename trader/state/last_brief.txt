@@ -1,7 +1,22 @@
-Sirf diye gaye JSON ke numbers aur data ke hisaab se Intraday Setup Brief yahan hai:
+🌇 *SHAAM KA REVIEW — SCAN vs REALITY REPORT CARD (2026-11-05)*
+💰 *Config Budget:* ₹10,000 (allow_margin: False)  |  *Account Passbook:* *₹10,241.44* (+2.41%)
 
-**Kaha:**
-BAJFINANCE
+🌅 *1. SUBAH KA SCAN AUR NEWS KYA BOLTA THA:*
+• *Subah 8:30 AM Watchlist (1 Stocks):* RELIANCE
+• *Subah ki News & Events:* data nahi
 
-**Kitne Baje:**
-Entry time 09:35 AM
+⚡ *2. DIN ME KYA HUA (1 Entered, 16 Blocked/Skipped):*
+• 🎯 *Target Hit (Wins):* 0  |  🛡️ *1R Trailed Exit:* 0  |  🛑 *SL Hit:* 0  |  🕒 *3:15 PM Exit:* 1
+• 💵 *Gross P&L:* ₹+251.55  |  *size.py Charges:* -₹10.11  |  🏆 *Net P&L:* *₹+241.44*
+
+
+🔍 *SKIPPED / BLOCKED SETUPS (16 Stock(s) — Kyu Skip Kiya):*
+• *AXISBANK* (10:01 IST) — AXISBANK: Cron 10m late: breakout failed back below OR High ₹1264.60 (now ₹1262.70)
+• *HCLTECH* (10:01 IST) — HCLTECH: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹118.20 for this one = ₹316.12, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹118.20 for this one = ₹316.12, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹146.10 for this one = ₹344.02, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹146.10 for this one = ₹344.02, over your ₹200 daily loss limit)
+• *ICICIBANK* (10:01 IST) — ICICIBANK: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹65.70 for this one = ₹263.62, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹65.70 for this one = ₹263.62, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹111.90 for this one = ₹309.82, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹111.90 for this one = ₹309.82, over your ₹200 daily loss limit)
+• *INDUSINDBK* (10:01 IST) — INDUSINDBK: Cron 15m late: breakout failed back below OR High ₹896.75 (now ₹894.55)
+• *INFY* (10:01 IST) — INFY: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹135.60 for this one = ₹333.52, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹135.60 for this one = ₹333.52, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹174.80 for this one = ₹372.72, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹174.80 for this one = ₹372.72, over your ₹200 daily loss limit)
+• *IRFC* (10:01 IST) — IRFC: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹86.80 for this one = ₹284.72, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹86.80 for this one = ₹284.72, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹148.80 for this one = ₹346.72, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹148.80 for this one = ₹346.72, over your ₹200 daily loss limit)
+
+🧠 *3. AAJ KI SAMAJH (MORNING SCAN vs INTRADAY REALITY):*
+• *Execution & Slippage Reality:* Aaj 1 setup(s) `india-budget` aur `india-risk` se pass huye. Realistic entry/exit slippage aur `size.py` ke exact NSE charges (-₹10.11) ke baad net result *₹+241.44* raha (Account Balance: *₹10,241.44*).

@@ -1,0 +1,13 @@
+{
+  "starting_capital": 10000.0,
+  "current_balance": 10241.44,
+  "days_traded": 1,
+  "history": [
+    {
+      "date": "2026-11-05",
+      "trades": 1,
+      "net_pnl": 241.44,
+      "balance": 10241.44
+    }
+  ]
+}
