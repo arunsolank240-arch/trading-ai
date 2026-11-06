@@ -1,22 +1,42 @@
-🌇 *SHAAM KA REVIEW — SCAN vs REALITY REPORT CARD (2026-11-05)*
-💰 *Config Budget:* ₹10,000 (allow_margin: False)  |  *Account Passbook:* *₹10,241.44* (+2.41%)
+**Morning Brief (8:30 AM IST)**
 
-🌅 *1. SUBAH KA SCAN AUR NEWS KYA BOLTA THA:*
-• *Subah 8:30 AM Watchlist (1 Stocks):* RELIANCE
-• *Subah ki News & Events:* data nahi
+**1. WATCHLIST**
+Aaj ki watchlist mein total 17 matches hain. Top 8 stocks hain:
+*   **TATACONSUM**: Price 1074.0, RSI14 0.0, Setup 'orb', Max Shares 9.
+*   **TECHM**: Price 1822.0, RSI14 0.0, Setup 'orb', Max Shares 5.
+*   **INFY**: Price 1160.5, RSI14 0.0, Setup 'orb', Max Shares 8.
+*   **RECLTD**: Price 294.1, RSI14 0.0, Setup 'orb', Max Shares 34.
+*   **SUNPHARMA**: Price 1810.6, RSI14 0.0, Setup 'orb', Max Shares 5.
+*   **BAJFINANCE**: Price 1043.75, RSI14 0.0, Setup 'orb', Max Shares 9.
+*   **INDUSINDBK**: Price 897.3, RSI14 0.0, Setup 'orb', Max Shares 11.
+*   **IRFC**: Price 80.09, RSI14 0.0, Setup 'orb', Max Shares 124.
 
-⚡ *2. DIN ME KYA HUA (1 Entered, 16 Blocked/Skipped):*
-• 🎯 *Target Hit (Wins):* 0  |  🛡️ *1R Trailed Exit:* 0  |  🛑 *SL Hit:* 0  |  🕒 *3:15 PM Exit:* 1
-• 💵 *Gross P&L:* ₹+251.55  |  *size.py Charges:* -₹10.11  |  🏆 *Net P&L:* *₹+241.44*
+**2. IMPORTANT ANNOUNCEMENTS**
+data nahi
 
+**3. AAJ KE EVENTS (Results, Board Meetings)**
+data nahi
 
-🔍 *SKIPPED / BLOCKED SETUPS (16 Stock(s) — Kyu Skip Kiya):*
-• *AXISBANK* (10:01 IST) — AXISBANK: Cron 10m late: breakout failed back below OR High ₹1264.60 (now ₹1262.70)
-• *HCLTECH* (10:01 IST) — HCLTECH: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹118.20 for this one = ₹316.12, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹118.20 for this one = ₹316.12, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹146.10 for this one = ₹344.02, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹146.10 for this one = ₹344.02, over your ₹200 daily loss limit)
-• *ICICIBANK* (10:01 IST) — ICICIBANK: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹65.70 for this one = ₹263.62, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹65.70 for this one = ₹263.62, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹111.90 for this one = ₹309.82, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹111.90 for this one = ₹309.82, over your ₹200 daily loss limit)
-• *INDUSINDBK* (10:01 IST) — INDUSINDBK: Cron 15m late: breakout failed back below OR High ₹896.75 (now ₹894.55)
-• *INFY* (10:01 IST) — INFY: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹135.60 for this one = ₹333.52, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹135.60 for this one = ₹333.52, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹174.80 for this one = ₹372.72, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹174.80 for this one = ₹372.72, over your ₹200 daily loss limit)
-• *IRFC* (10:01 IST) — IRFC: or-mid/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹86.80 for this one = ₹284.72, over your ₹200 daily loss limit) | or-mid/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹86.80 for this one = ₹284.72, over your ₹200 daily loss limit) | or-low/2R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹148.80 for this one = ₹346.72, over your ₹200 daily loss limit) | or-low/3R: india-risk BLOCK (daily loss: ₹197.92 already at risk today plus ₹148.80 for this one = ₹346.72, over your ₹200 daily loss limit)
+**4. TIME MACHINE ODDS**
+RELIANCE symbol ke liye 10000 replays mein:
+*   Target hit hone ki probability 44.0% hai.
+*   Stop hit hone ki probability 56.0% hai.
+*   Total 29 sessions test kiye gaye, jismein se 25 sessions mein trade trigger hua.
+*   Historical wins 10 aur historical losses 15 hain.
+*   Historical average R 0.2 hai.
 
-🧠 *3. AAJ KI SAMAJH (MORNING SCAN vs INTRADAY REALITY):*
-• *Execution & Slippage Reality:* Aaj 1 setup(s) `india-budget` aur `india-risk` se pass huye. Realistic entry/exit slippage aur `size.py` ke exact NSE charges (-₹10.11) ke baad net result *₹+241.44* raha (Account Balance: *₹10,241.44*).
+**5. RISK BUDGET**
+*   Total budget 10000.0 INR hai.
+*   Ek position par maximum 10000.0 INR ka cap hai.
+*   Margin trading allowed nahi hai (false).
+*   Har trade mein maximum loss 200.0 INR hai.
+*   Pure din ka maximum loss 200.0 INR hai.
+*   Minimum reward-to-risk ratio 2.0 hona chahiye.
+*   Charges ke baad minimum reward-to-risk ratio 1.0 hona chahiye.
+*   Cost trail trigger 1 R par hoga.
+*   Ek din mein maximum 3 trades allowed hain.
+
+**6. AAJ KYA NAHI KARNA**
+*   Subah 9:15 se 09:30 AM tak (first 15 minutes — all 3 bars required) koi trade nahi karna hai.
+*   14:45 IST ke baad koi nayi entry nahi leni hai.
+*   Sabhi positions ko 15:15 IST tak auto square off kar dena hai.

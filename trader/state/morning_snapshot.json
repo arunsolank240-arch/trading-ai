@@ -10,17 +10,87 @@
   ],
   "schedule_ist": "8:30 AM",
   "date": "data nahi",
-  "total_watchlist_matches": 1,
+  "total_watchlist_matches": 17,
   "1_watchlist": [
     {
       "rank": 1,
-      "symbol": "RELIANCE",
-      "price": 1401.4,
+      "symbol": "TATACONSUM",
+      "price": 1074.0,
       "rsi14": 0.0,
       "setups": [
         "orb"
       ],
-      "max_shares_in_budget": 7
+      "max_shares_in_budget": 9
+    },
+    {
+      "rank": 2,
+      "symbol": "TECHM",
+      "price": 1822.0,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 5
+    },
+    {
+      "rank": 3,
+      "symbol": "INFY",
+      "price": 1160.5,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 8
+    },
+    {
+      "rank": 4,
+      "symbol": "RECLTD",
+      "price": 294.1,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 34
+    },
+    {
+      "rank": 5,
+      "symbol": "SUNPHARMA",
+      "price": 1810.6,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 5
+    },
+    {
+      "rank": 6,
+      "symbol": "BAJFINANCE",
+      "price": 1043.75,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 9
+    },
+    {
+      "rank": 7,
+      "symbol": "INDUSINDBK",
+      "price": 897.3,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 11
+    },
+    {
+      "rank": 8,
+      "symbol": "IRFC",
+      "price": 80.09,
+      "rsi14": 0.0,
+      "setups": [
+        "orb"
+      ],
+      "max_shares_in_budget": 124
     }
   ],
   "2_important_announcements": "data nahi",
