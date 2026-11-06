@@ -1,5 +1,5 @@
 {
-  "brief_type": "MORNING_830_IST_BRIEF",
+  "date": "2026-11-06",
   "template_sections": [
     1,
     2,
@@ -8,120 +8,36 @@
     5,
     6
   ],
-  "schedule_ist": "8:30 AM",
-  "date": "data nahi",
-  "total_watchlist_matches": 17,
-  "1_watchlist": [
-    {
-      "rank": 1,
-      "symbol": "TATACONSUM",
-      "price": 1074.0,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 9
-    },
-    {
-      "rank": 2,
-      "symbol": "TECHM",
-      "price": 1822.0,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 5
-    },
-    {
-      "rank": 3,
-      "symbol": "INFY",
-      "price": 1160.5,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 8
-    },
-    {
-      "rank": 4,
-      "symbol": "RECLTD",
-      "price": 294.1,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 34
-    },
-    {
-      "rank": 5,
-      "symbol": "SUNPHARMA",
-      "price": 1810.6,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 5
-    },
-    {
-      "rank": 6,
-      "symbol": "BAJFINANCE",
-      "price": 1043.75,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 9
-    },
-    {
-      "rank": 7,
-      "symbol": "INDUSINDBK",
-      "price": 897.3,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 11
-    },
-    {
-      "rank": 8,
-      "symbol": "IRFC",
-      "price": 80.09,
-      "rsi14": 0.0,
-      "setups": [
-        "orb"
-      ],
-      "max_shares_in_budget": 124
-    }
+  "starting_capital_inr": 10000.0,
+  "allow_margin": false,
+  "current_balance_inr": 10241.44,
+  "return_pct": 2.41,
+  "morning_watchlist_count": 8,
+  "morning_watchlist_symbols": [
+    "TATACONSUM",
+    "TECHM",
+    "INFY",
+    "RECLTD",
+    "SUNPHARMA",
+    "BAJFINANCE",
+    "INDUSINDBK",
+    "IRFC"
   ],
-  "2_important_announcements": "data nahi",
-  "3_events_results_board_meetings": "data nahi",
-  "4_time_machine_odds": {
-    "reference_symbol": "RELIANCE",
-    "replays": 10000,
-    "target_hit_pct": 44.0,
-    "stop_hit_pct": 56.0,
-    "sessions_tested": 29,
-    "triggered_sessions": 25,
-    "historical_wins": 10,
-    "historical_losses": 15,
-    "historical_avg_r": 0.2
-  },
-  "5_risk_budget": {
-    "budget_inr": 10000.0,
-    "position_cap_inr": 10000.0,
-    "allow_margin": false,
-    "max_loss_per_trade_inr": 200.0,
-    "max_daily_loss_inr": 200.0,
-    "min_reward_risk": 2.0,
-    "min_reward_risk_after_charges": 1.0,
-    "cost_trail_trigger_r": 1,
-    "max_trades_per_day": 3
-  },
-  "6_what_not_to_do": {
-    "no_trade_window_morning": "9:15–09:30 AM (first 15 minutes — all 3 bars required)",
-    "no_new_entry_after_ist": "14:45",
-    "auto_square_off_ist": "15:15",
-    "max_daily_loss_stop_inr": 200.0,
-    "max_trades_cap": 3
-  }
+  "morning_announcements_count": 0,
+  "morning_events_count": 0,
+  "intraday_triggered_count": 0,
+  "skipped_or_blocked_count": 0,
+  "target_hit_wins": 0,
+  "trailed_stop_exits": 0,
+  "stop_loss_hits": 0,
+  "time_exits_1515": 0,
+  "square_off_time": "3:15 PM",
+  "opening_range_window": "9:15–9:30",
+  "opening_range_minutes": 15,
+  "candle_interval_minutes": 5,
+  "gross_pnl_inr": 0,
+  "total_charges_inr": 0,
+  "net_pnl_inr": 0,
+  "trades": [],
+  "skipped": "data nahi"
 }

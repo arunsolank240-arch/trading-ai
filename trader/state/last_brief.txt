@@ -1,42 +1,15 @@
-**Morning Brief (8:30 AM IST)**
+🌇 *SHAAM KA REVIEW — SCAN vs REALITY REPORT CARD (2026-11-06)*
+💰 *Config Budget:* ₹10,000 (allow_margin: False)  |  *Account Passbook:* *₹10,241.44* (+2.41%)
 
-**1. WATCHLIST**
-Aaj ki watchlist mein total 17 matches hain. Top 8 stocks hain:
-*   **TATACONSUM**: Price 1074.0, RSI14 0.0, Setup 'orb', Max Shares 9.
-*   **TECHM**: Price 1822.0, RSI14 0.0, Setup 'orb', Max Shares 5.
-*   **INFY**: Price 1160.5, RSI14 0.0, Setup 'orb', Max Shares 8.
-*   **RECLTD**: Price 294.1, RSI14 0.0, Setup 'orb', Max Shares 34.
-*   **SUNPHARMA**: Price 1810.6, RSI14 0.0, Setup 'orb', Max Shares 5.
-*   **BAJFINANCE**: Price 1043.75, RSI14 0.0, Setup 'orb', Max Shares 9.
-*   **INDUSINDBK**: Price 897.3, RSI14 0.0, Setup 'orb', Max Shares 11.
-*   **IRFC**: Price 80.09, RSI14 0.0, Setup 'orb', Max Shares 124.
+🌅 *1. SUBAH KA SCAN AUR NEWS KYA BOLTA THA:*
+• *Subah 8:30 AM Watchlist (8 Stocks):* TATACONSUM, TECHM, INFY, RECLTD, SUNPHARMA, BAJFINANCE, INDUSINDBK, IRFC
+• *Subah ki News & Events:* data nahi
 
-**2. IMPORTANT ANNOUNCEMENTS**
-data nahi
+⚡ *2. DIN ME KYA HUA (0 Entered, 0 Blocked/Skipped):*
+• 🎯 *Target Hit (Wins):* 0  |  🛡️ *1R Trailed Exit:* 0  |  🛑 *SL Hit:* 0  |  🕒 *3:15 PM Exit:* 0
+• 💵 *Gross P&L:* ₹+0.00  |  *size.py Charges:* -₹0.00  |  🏆 *Net P&L:* *₹+0.00*
 
-**3. AAJ KE EVENTS (Results, Board Meetings)**
-data nahi
+• *Aaj ke Entered Trades:* 0 (koi setup after-charges R:R aur risk filter par pass nahi hua).
 
-**4. TIME MACHINE ODDS**
-RELIANCE symbol ke liye 10000 replays mein:
-*   Target hit hone ki probability 44.0% hai.
-*   Stop hit hone ki probability 56.0% hai.
-*   Total 29 sessions test kiye gaye, jismein se 25 sessions mein trade trigger hua.
-*   Historical wins 10 aur historical losses 15 hain.
-*   Historical average R 0.2 hai.
-
-**5. RISK BUDGET**
-*   Total budget 10000.0 INR hai.
-*   Ek position par maximum 10000.0 INR ka cap hai.
-*   Margin trading allowed nahi hai (false).
-*   Har trade mein maximum loss 200.0 INR hai.
-*   Pure din ka maximum loss 200.0 INR hai.
-*   Minimum reward-to-risk ratio 2.0 hona chahiye.
-*   Charges ke baad minimum reward-to-risk ratio 1.0 hona chahiye.
-*   Cost trail trigger 1 R par hoga.
-*   Ek din mein maximum 3 trades allowed hain.
-
-**6. AAJ KYA NAHI KARNA**
-*   Subah 9:15 se 09:30 AM tak (first 15 minutes — all 3 bars required) koi trade nahi karna hai.
-*   14:45 IST ke baad koi nayi entry nahi leni hai.
-*   Sabhi positions ko 15:15 IST tak auto square off kar dena hai.
+🧠 *3. AAJ KI SAMAJH (MORNING SCAN vs INTRADAY REALITY):*
+• *Execution Reality:* Aaj koi setup after-charges R:R aur risk filter par pass nahi hua — capital safe raha.
