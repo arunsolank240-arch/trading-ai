@@ -1,15 +1,4 @@
-🌇 *SHAAM KA REVIEW — SCAN vs REALITY REPORT CARD (2026-11-06)*
-💰 *Config Budget:* ₹10,000 (allow_margin: False)  |  *Account Passbook:* *₹10,241.44* (+2.41%)
+**Shaam Ka Review: 2026-11-11**
 
-🌅 *1. SUBAH KA SCAN AUR NEWS KYA BOLTA THA:*
-• *Subah 8:30 AM Watchlist (8 Stocks):* TATACONSUM, TECHM, INFY, RECLTD, SUNPHARMA, BAJFINANCE, INDUSINDBK, IRFC
-• *Subah ki News & Events:* data nahi
-
-⚡ *2. DIN ME KYA HUA (0 Entered, 0 Blocked/Skipped):*
-• 🎯 *Target Hit (Wins):* 0  |  🛡️ *1R Trailed Exit:* 0  |  🛑 *SL Hit:* 0  |  🕒 *3:15 PM Exit:* 0
-• 💵 *Gross P&L:* ₹+0.00  |  *size.py Charges:* -₹0.00  |  🏆 *Net P&L:* *₹+0.00*
-
-• *Aaj ke Entered Trades:* 0 (koi setup after-charges R:R aur risk filter par pass nahi hua).
-
-🧠 *3. AAJ KI SAMAJH (MORNING SCAN vs INTRADAY REALITY):*
-• *Execution Reality:* Aaj koi setup after-charges R:R aur risk filter par pass nahi hua — capital safe raha.
+**1. SUBAH KA SCAN AUR NEWS KYA BOLTA THA**
+Aaj, 2026-11-1
